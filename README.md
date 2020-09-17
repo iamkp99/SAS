@@ -1,4 +1,6 @@
 # SAS
+
+Project for AXIS VNIT Hackathon, 2020.
 Smart Attendance System
 This application lets you takes attendance is a very smart and efficient way
 
